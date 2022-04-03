@@ -31,5 +31,5 @@ yarn-debug.log*
 .yarn-integrity
 
 /vendor/bundle
-postgresql_data/
 .DS_Store
+postgresql_data
